@@ -3,7 +3,7 @@
 ### E-mail 
 <p>
   <a href="mailto:tkaektn9085@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/rhdptjd0416@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tkaektn9085@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
