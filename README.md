@@ -7,6 +7,9 @@
   </a>
 </p>
 
+### portfolio
+https://github.com/TIcording/portfolio/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf
+
 # Skills
 
 ### AI
