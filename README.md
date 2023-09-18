@@ -8,7 +8,12 @@
 </p>
 
 ### portfolio
-https://github.com/TIcording/portfolio/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf
+<p>
+  <a href="https://github.com/TIcording/portfolio/blob/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf
+" target="_blank">
+    <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=&logoColor=black"/>
+  </a>
+</p>
 
 # Skills
 
