@@ -15,6 +15,14 @@
   </a>
 </p>
 
+### Tech Blog
+
+<p>
+  <a href="https://coding-diary100.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-FDB5B5?style=for-the-badge&logo=tistory&logoColor=black"/>
+  </a>
+</p>
+
 
 # Skills
 
@@ -64,3 +72,8 @@
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;&nbsp;
 </p>
+
+#
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TIcording&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIcording&layout=compact&theme=tokyonight)
