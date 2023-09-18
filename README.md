@@ -15,6 +15,13 @@
   </a>
 </p>
 
+<p>
+  <a href="https://witty-mosquito-4e6.notion.site/5888e0a0c62f48a0a9dee36fa0bd18b5?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
+  </a>
+</p>
+
+
 ### Tech Blog
 
 <p>
